@@ -1,7 +1,7 @@
 # Study_on_the_MURA_Dataset---Machine_Learning_Python
 Exploratory study and machine learning analysis on the MURA dataset using Python. Focused on medical image classification and model evaluation. Contribution to an existing study with the possibility of publishing a scientific article
 
-**Note:** train_data_cache.pkl file to be regenerated via code execution because it exceeds the size allowed by GitHub Free
+**Note:** files train_data_cache.pkl, train_data_cache_no_normalizzazione.pkl, valid_data_cache.pkl and valid_data_cache_no_normalizzazione.pkl should be regenerated via code execution because it exceeds the size allowed by GitHub Free
 
 ## Dataset
 The MURA dataset is not included in this repository.  

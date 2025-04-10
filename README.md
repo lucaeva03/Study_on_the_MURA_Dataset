@@ -5,6 +5,7 @@ Exploratory study and machine learning analysis on the MURA dataset using Python
 The MURA dataset is not included in this repository.  
 You must request access and download it directly from the official source:
 🔗 https://stanfordmlgroup.github.io/competitions/mura/
+
 **Note:** The dataset is licensed for non-commercial, research use only. Please respect the terms set by Stanford University.
 
 ## License
